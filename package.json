@@ -1,0 +1,23 @@
+{
+  "name": "hexlet-jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/M4XPRD/hexlet-jest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/M4XPRD/hexlet-jest/issues"
+  },
+  "type": "module",
+  "homepage": "https://github.com/M4XPRD/hexlet-jest#readme",
+  "devDependencies": {
+    "jest": "^27.4.3"
+  }
+}
